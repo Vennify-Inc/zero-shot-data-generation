@@ -15,6 +15,4 @@ Download TextBlob data
 
 Then run any of the files ending in "_experiment.py"
 
-primary_experiment.py: Generates training data with a zero-shot BART text classification model. 
-Then,  
 
