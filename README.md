@@ -1,5 +1,6 @@
 
-
+Full article about this code: 
+https://www.vennify.ai/generating-training-data-zero-shot/
 
 ## Instructions
 Download requirements  
